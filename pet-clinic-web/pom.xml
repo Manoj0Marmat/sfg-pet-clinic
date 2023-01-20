@@ -13,6 +13,10 @@
         <maven.compiler.source>19</maven.compiler.source>
         <maven.compiler.target>19</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+
+        <!-- Web dependencies -->
+        <webjars-bootstrap.version>5.1.3</webjars-bootstrap.version>
+        <webjars-font-awesome.version>4.7.0</webjars-font-awesome.version>
     </properties>
     <dependencies>
         <dependency>
